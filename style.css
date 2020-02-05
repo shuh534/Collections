@@ -1,0 +1,28 @@
+p {
+  margin-left: 2%;
+}
+
+body {
+    font-family: Helvetica;
+    margin: 0px;
+    color: white;
+    background-color: #3950f9;
+}
+
+#container {
+  position: relative;
+  width: 100%;
+  height: 600vh;
+}
+
+#newContent {
+  margin-left: 2%;
+  color: #ff6781;
+}
+
+@media only screen and (max-width: 600px) {
+  body {
+  background-color: #f9397d;
+}
+  
+}
